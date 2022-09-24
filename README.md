@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidhi Sinha</h1>
 <h3 align="center">I am a senior at BNMIT Bangalore pursuing B.E. in CSE. I love to code, read, travel and try something new and innovative.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhisinha2002&label=Profile%20views&color=0e75b6&style=flat" alt="vidhisinha2002" /> </p>
 
 - 🔭 I’m currently working on **enhancing my skills**
 
