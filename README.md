@@ -2,6 +2,7 @@
 <h3 align="center">I am a senior at BNMIT Bangalore pursuing B.E. in CSE. I love to code, read, travel and try something new and innovative.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
 <img src="https://github.com/vidhisinha2002/vidhisinha2002/blob/main/banner1.png" border-radius="5px">
+
 - 🔭 I’m currently working on enhancing my skills
 
 - 📝 I regularly write articles on [https://medium.com/@vidhisinha2002](https://medium.com/@vidhisinha2002)
