@@ -24,7 +24,7 @@
 
 
 
-## 🏆 2022 Goals
+## 🏆 2023 Goals
 
 - Make amazing projects.
 - Contribute to Open-Source.
