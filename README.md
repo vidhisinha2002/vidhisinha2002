@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidhi Sinha</h1>
-<h3 align="center">I am a senior at BNMIT Bangalore pursuing B.E. in CSE. I love to code, read, travel and try something new and innovative.</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
 <img src="https://github.com/vidhisinha2002/vidhisinha2002/blob/main/banner1.png" border-radius="5px">
 
@@ -44,8 +44,6 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhisinha2002&show_icons=true&locale=en&layout=compact" alt="vidhisinha2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhisinha2002&show_icons=true&locale=en" alt="vidhisinha2002" /></p>
 
